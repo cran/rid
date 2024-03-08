@@ -1,0 +1,12 @@
+6a3106a8a67f3f2eaaf07884692ac713 *DESCRIPTION
+dab9c98217b577532ea00afd2f52abd5 *NAMESPACE
+4c19a3356aab8d09b7973523448f30cb *R/List2Matrix.R
+a75d9f28319e7e65c3e4dfd470a0114e *R/OTHERS.R
+8c96c2481f4971e4e647f8b6a8cadf2b *R/RcppExports.R
+b1a454f7d201b0276e05ab5c8b8da5b1 *R/localization.R
+2c22955432b9dedf1706aa14fe648943 *R/rid.R
+0b0b71edd89690102c0ec930cabb63fb *man/List2Matrix.Rd
+1d45f00ee0cc24ce76e14a98118529a0 *man/localization.Rd
+90cf1d1889c29e1950d736e8fd3b6c32 *man/rid.Rd
+10c08943747eb075b66c49e200d3085b *src/RcppExports.cpp
+fa37655316f6dd8689ab605f518f7008 *src/rid.cpp
